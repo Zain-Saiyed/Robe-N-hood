@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487661310415",
+    "firebase_url": "https://robenhood-4ac9c.firebaseio.com",
+    "project_id": "robenhood-4ac9c",
+    "storage_bucket": "robenhood-4ac9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487661310415:android:b316f14db3ed8f29",
+        "android_client_info": {
+          "package_name": "com.example.bharg.robenhood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487661310415-8nq7vq0m2205slo1guclu24lem47ku67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bharg.robenhood",
+            "certificate_hash": "890b801d5e5aa3151941725d4d78591e83ab38e1"
+          }
+        },
+        {
+          "client_id": "487661310415-hqn8bk1rvuvi8lb8g0fndcjkap53ea8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjPpIomegjIlE6BG6M1EN5jK2oybPvAHc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487661310415-hqn8bk1rvuvi8lb8g0fndcjkap53ea8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

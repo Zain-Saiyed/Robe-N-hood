@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aldrich</item>
+        <item>@font/antic_didone</item>
+        <item>@font/antic_slab</item>
+        <item>@font/archivo_black</item>
+        <item>@font/bangers</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/cairo_extralight</item>
+        <item>@font/coda</item>
+        <item>@font/comfortaa_light</item>
+        <item>@font/eagle_lake</item>
+        <item>@font/ewert</item>
+        <item>@font/faster_one</item>
+        <item>@font/fugaz_one</item>
+        <item>@font/jolly_lodger</item>
+        <item>@font/londrina_shadow</item>
+        <item>@font/uncial_antiqua</item>
+    </array>
+</resources>

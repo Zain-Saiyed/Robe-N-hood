@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Robe N Hood</string>
+    <string name="enter">Enter</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="e_mail">E-mail Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="pickup_address">Pickup Address</string>
+    <string name="cloth_description">Cloth Description (T-shirts -20, Shoes-2)"</string>
+    <string name="donate">DONATE</string>
+    <string name="signup">REGISTER</string>
+    <string name="quantity">Total Items</string>
+    <string name="we_will_contact_you_for_further_process">We will Contact You for Further Process !</string>
+    <string name="robinhood">RobinHood</string>
+    <string name="n1">Ever wondered where to give \n your old clothes.....\nor\nHave you gone searching for the needy around your Household to give your \nold clothes..?</string>
+    <string name="you_are_the_real">You are the real</string>
+    <string name="n2">Every Year Thousands of People die just Because of lack of Proper clothing. As it is one of the basic necessity, we believe that all Humans are equal and we should share what we have in excess. So if you have something to support our cause we always \n Welcome You.</string>
+    <string name="for_being_supportive_in_a_noble_cause">For being supportive in a noble Cause.</string>
+    <string name="vision">Vision</string>
+    <string name="about_us">About Us</string>
+    <string name="abt_us">We are Team of 5 young Enthusiastic Students \naiming to improve the \nStandards of the underprivileged \nSectors or Areas.</string>
+    <string name="contact">Contact Us</string>
+    <string name="phone">XXXXX-XXXXX</string>
+    <string name="ema">robenhood@gmail.com</string>
+    <string name="thank_you">Thank You</string>
+    <string name="title_activity_login">login</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="registeredngo">Registered NGOs</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="submit">SUBMIT</string>
+
+</resources>
