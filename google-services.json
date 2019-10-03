@@ -1,0 +1,55 @@
+{
+  project_info {
+    project_number 487661310415,
+    firebase_url httpsrobenhood-4ac9c.firebaseio.com,
+    project_id robenhood-4ac9c,
+    storage_bucket robenhood-4ac9c.appspot.com
+  },
+  client [
+    {
+      client_info {
+        mobilesdk_app_id 1487661310415androidb316f14db3ed8f29,
+        android_client_info {
+          package_name com.example.bharg.robenhood
+        }
+      },
+      oauth_client [
+        {
+          client_id,
+          client_type 1,
+          android_info {
+            package_name com.example.bharg.robenhood,
+            certificate_hash
+          }
+        },
+        {
+          client_id,
+          client_type 3
+        }
+      ],
+      api_key [
+        {
+          current_key "API_KEY HERE"
+        }
+      ],
+      services {
+        analytics_service {
+          status 1
+        },
+        appinvite_service {
+          status 2,
+          other_platform_oauth_client [
+            {
+              client_id,
+              client_type 3
+            }
+          ]
+        },
+        ads_service {
+          status 2
+        }
+      }
+    }
+  ],
+  configuration_version 1
+}
